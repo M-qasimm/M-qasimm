@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Qasim
 
-<!--
-**M-qasimm/M-qasimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering graduate | 🤖 AI & Mobile Dev Enthusiast  
+ 🧠 ML | 🔍 Data Analysis | 🛠️ Real-world Problem Solver
 
-Here are some ideas to get you started:
+## 💼 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚼 **Little Guardian** – AI-powered child-following robot with object & danger detection  
+- 🏋️ **Fitness Assistant App** – Posture correction using pose estimation & exercise suggestions  
+- 📊 **Student Score Prediction** – ML project for score analysis using linear regression  
+
+## 🛠️ Tech Stack
+
+`Python` `Flutter` `Firebase` `TensorFlow` `scikit-learn` `Streamlit` `GitHub` `SQL`
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-qasim-891833250/
+- Email: mqasimabdullah12@gmail.com
