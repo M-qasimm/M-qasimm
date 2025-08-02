@@ -17,7 +17,7 @@
 - Personalized workout suggestions
 - Built in Flutter + Firebase with TensorFlow models
 
-### 🔹 Hooriya Henna – Freelance Business Website (Add it ✅)
+### 🔹 Hooriya Henna – Freelance Business Website 
 - Custom portfolio website for a Mehndi (Henna) artist
 - Clean UI/UX built using WordPress + Elementor
 - Features booking, gallery, and customer testimonial sections
