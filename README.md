@@ -1,11 +1,11 @@
 # 👋 Asslamualaikum!, I'm Muhammad Qasim
 
 🎓 Software Engineering Graduate | 🤖 AI & Mobile Dev Enthusiast  
-📱 Flutter | 🔥 Firebase | 🧠 Machine Learning | 🎯 Real-world Solutions
+🔍 Data Analysis | 🧠 Machine Learning | 🎯 Real-world Solutions
 
 ---
 
-## 💼 Projects Showcase
+## 💼 Projects 
 
 ### 🔹 Little Guardian – AI Child Safety Robot
 - Follows child via object detection
